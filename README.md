@@ -74,5 +74,5 @@ https://github.com/solrachix/podcastr
 
 
 - Linkedin at [Ricardo Dias](https://www.linkedin.com/in/ricardo-dias-24b5a6225/)
-- Instagram [Solrachix](https://www.instagram.com/Ricardo_zy_)
+- Instagram [Ricardo Dias](https://www.instagram.com/Ricardo_zy_)
 
