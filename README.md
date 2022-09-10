@@ -22,7 +22,7 @@
 - Clone this repo to your local machine using:
 
 ```
-https://github.com/solrachix/podcastr
+https://github.com/Ricardozy7/NextJs-podcast
 ```
 
 ### Setup
