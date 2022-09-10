@@ -98,55 +98,7 @@ https://github.com/solrachix/podcastr
 - [Typescript](https://www.typescriptlang.org/) - TypeScript is an open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 - [Next.JS](https://nextjs.org/) - Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
 
----
 
-## 🤔 Contributing
+- Linkedin at [Ricardo Dias](https://www.linkedin.com/in/ricardo-dias-24b5a6225/)
+- Instagram [Solrachix](https://www.instagram.com/Ricardo_zy_)
 
-> To get started...
-
-### Step 1
-
-- 🍴 Fork this repo!
-
-### Step 2
-
-- 👯 Clone this repo to your local machine using `https://github.com/solrachix/podcastr`
-
-### Step 3
-
-- 🎋 Create your feature branch using `git checkout -b my-feature`
-
-### Step 4
-
-- ✅ Commit your changes using `git commit -m 'feat: My new feature'`;
-
-### Step 5
-
-- 📌 Push to the branch using `git push origin my-feature`;
-
-### Step 6
-
-- 🔃 Create a new pull request
-
-After your Pull Request is merged, can you delete your feature branch.
-
----
-
-## 📌 Support
-
-Reach out to me at one of the following places!
-
-- Linkedin at [Carlos Miguel](https://www.linkedin.com/in/carlos-miguel-380413197)
-- Instagram [Solrachix](https://www.instagram.com/solrachix)
-
----
-
-## 📝 License
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Made by Carlos Miguel with 💙 Enjoy it!
