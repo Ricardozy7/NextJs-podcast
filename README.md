@@ -4,32 +4,6 @@
   </a>
 </h1>
 
-<p align="center">A platform built to broadcast a specific podcast, Faladev by Rocketseat.</p>
-
-<p align="center">
-  <a href="https://github.com/solrachix">
-  <img alt="Made by Carlos Miguel" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
-  </a>
-   <a href="https://www.linkedin.com/in/carlos-miguel-380413197">
-      <img alt="Carlos Miguel" src="https://img.shields.io/badge/-Carlos%20Miguel-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
-   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/solrachix/podcastr?style=for-the-badge&label=Repo%20Size:&labelColor=5965e0&color=5965e0">
-	<br />
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
-    <img src="https://img.shields.io/badge/podcastr-23.04.21-5965e0?style=for-the-badge&labelColor=5965e0"></img>
-  </a>
-  <a href="https://github.com/solrachix/podcastr/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/solrachix/podcastr?style=for-the-badge&label=last%20commit:&labelColor=5965e0&color=5965e0">
-  </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0?style=for-the-badge&labelColor=5965e0&color=5965e0">
-  <br />
-  <a href="https://github.com/solrachix/podcastr/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/solrachix/podcastr?color=FF4400&logo=github">
-  </a>
-</p>
-<p align="center">
-    <img alt="Move.it Logo" src="https://github.com/solrachix/podcastr/blob/master/public/images/template.svg?raw=true" />
-</p>
 
 ---
 
